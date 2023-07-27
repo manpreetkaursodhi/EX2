@@ -1,0 +1,26 @@
+.upper {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    height: auto;
+    row-gap: 70px;
+    flex-direction: row;
+    margin-top: 40px;
+}
+
+.img1 {
+    max-width: 370px;
+    height: 320px;
+    width: 280px;
+    margin-bottom: 120px;
+    border-radius: 10px;
+}
+
+.img2 {
+    max-width: 370px;
+    height: 320px;
+    width: 280px;
+    border-radius: 10px;
+}
+
